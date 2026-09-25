@@ -1,7 +1,4 @@
-## Hi there 👋
-**nutzu030-stack/nutzu030-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋 My name is Ionut, but you can call me Nutzu
 
 - 🔭 I’m currently working on SOC threats and Data analysis
 - 🌱 I’m currently learning Digital technologies
